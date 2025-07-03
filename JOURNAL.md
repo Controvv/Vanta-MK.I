@@ -186,7 +186,7 @@ Started cutting out 2020 extrusions and will cut the rest on Monday (30 mintues)
 
 ## Day 16 7/2/25 it was not a good day for the plasma cutter
 
-Cut out the build plate bracket on my FRC team's plasma cutter today and it did not come out as nice as I was hoping as cut every hole too large and left bunny ears on every hole. luckily it is still usable as it seams all the holes are still in the right position. I just need to use washers for everything. (4 minutes)
+Cut out the build plate bracket on my FRC team's plasma cutter today and it did not come out as nice as I was hoping as it cut every hole too large and left bunny ears all over the place. luckily it is still usable as it seams all the holes are still in the right position. I just need to use washers for everything. (4 minutes)
 
 ![image](https://github.com/user-attachments/assets/c6a2c725-0aa5-428d-9490-3f5108032b83)
 
