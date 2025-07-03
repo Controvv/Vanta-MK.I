@@ -184,6 +184,12 @@ Found that my FRC Team had quite a few 2020 and 2040 extrusions that they had no
 Started cutting out 2020 extrusions and will cut the rest on Monday (30 mintues)
 ![image](https://github.com/user-attachments/assets/8a3304ba-6caa-43c7-acde-48e5bab6b2b8)
 
+## Day 16 7/2/25 it was not the plasma cutters best day
 
+Cut out the build plate bracket on my FRC team's plasma cutter today and it did not come out as nice as I was hoping as cut every hole too large and left bunny ears on every hole. luckily it is still usable as it seams all the holes are still in the right position. I just need to use washers for everything. (4 minutes)
 
+![image](https://github.com/user-attachments/assets/c6a2c725-0aa5-428d-9490-3f5108032b83)
 
+I also finished cutting all of the extrusions (40 minutes)
+
+![image](https://github.com/user-attachments/assets/5a0db055-1b9b-42f2-bd10-b345e51894ad)
