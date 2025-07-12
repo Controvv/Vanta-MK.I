@@ -17,10 +17,10 @@ NonCommercial — You may not use the material for commercial purposes.
 
 ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license.
 
-# 🔧 Modifications I Made:
+# Modifications I Made:
 Redesigned the output shaft to resemble that of a standard NEMA 17 motor.
 
-Made the shaft a separate part that threads into the output gear for horizontal printing to improved strength.
+Made the shaft a separate part that threads into the output gear for horizontal printing for improved strength.
 
 Adjusted the mounting pattern to match NEMA 17 hole spacing for direct compatibility with standard brackets.
 
