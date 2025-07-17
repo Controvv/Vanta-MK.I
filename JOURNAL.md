@@ -194,7 +194,7 @@ I also finished cutting all of the extrusions (40 minutes)
 
 ![image](https://github.com/user-attachments/assets/5a0db055-1b9b-42f2-bd10-b345e51894ad)
 
-## Day 17 7/16/25 Assembled the print head
+## Day 17 7/16/25 Assembled the print head (1 Hour)
 
 [instructions](https://drive.google.com/file/d/1xO8D2qZSfavB1uup1U34geA2GMzbu726/view?usp=sharing)
 
