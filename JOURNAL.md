@@ -193,3 +193,10 @@ Cut out the build plate bracket on my FRC team's plasma cutter today and it did 
 I also finished cutting all of the extrusions (40 minutes)
 
 ![image](https://github.com/user-attachments/assets/5a0db055-1b9b-42f2-bd10-b345e51894ad)
+
+## Day 17 7/16/25 Assembled the print head
+
+[instructions](https://drive.google.com/file/d/1xO8D2qZSfavB1uup1U34geA2GMzbu726/view?usp=sharing)
+
+<img width="1714" height="4000" alt="image" src="https://github.com/user-attachments/assets/b1c50938-2735-4bd1-863f-9afb575c69cc" />
+
